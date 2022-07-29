@@ -16,7 +16,7 @@ Payload is a CMS that has been designed for developers from the ground up to del
 
 ### Quick Start
 
-Before beginning to work with Payload, make sure you have all of the [required software](https://payloadcms.com/docs/getting-started/installation).
+Before beginning to work with Payload, make sure you have all of the [required software]().
 
 From there, the easiest way to get started with Payload is to use the `create-payload-app` package:
 
@@ -24,11 +24,11 @@ From there, the easiest way to get started with Payload is to use the `create-pa
 npx create-payload-app
 ```
 
-Alternatively, it only takes about five minutes to [create an app from scratch](https://payloadcms.com/docs/getting-started/installation#from-scratch).
+Alternatively, it only takes about five minutes to [create an app from scratch]().
 
 ### Documentation
 
-Check out the [Payload website](https://payloadcms.com/docs/getting-started/what-is-payload) to find in-depth documentation for everything that Payload offers.
+Check out the [Payload website]() to find in-depth documentation for everything that Payload offers.
 ### Contributing
 
 If you want to add contributions to this repository, please follow the instructions in [contributing.md](./contributing.md).
